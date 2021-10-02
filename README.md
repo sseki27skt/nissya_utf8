@@ -11,7 +11,7 @@
 
 - 基本的には樋󠄀口耕一さんが公開している[PDF](http://koichi.nihon.to/psnl/tex/nissya_bib.pdf)の記述と同様にお使いいただけるはずです。プリアンブルに\usepackage{nissya_bib_utf8}、文書内に\bibliography{お使いのbibファイル名}を書いておいてください。
 - コンパイルはLuaLaTeX - upBibTeX - LuaLaTeX×2です。
-- 樋󠄀口耕一さんが公開しているsample.texをLuaLaTeXで走るように更新したsample_uft.texを同梱していますので、あわせてご参照ください。
+- 樋󠄀口耕一さんが公開しているsample.texをLuaLaTeXで走るように更新したsample_uft8.texを同梱していますので、あわせてご参照ください。
 
 ## 基本的な挙動
 
