@@ -1,6 +1,6 @@
 # nissya_utf8
 
-このファイルは樋󠄀口耕一さんが[LaTeX tiny Tips](http://koichi.nihon.to/psnl/latex0.html#nissya)で公開してくださっているnissya.bstに手直しを加え、姓, 名 の順で書かれた日本語文献を含むbibファイルからそれらしい出力を得られるようにしたものです。
+このファイルは樋󠄀口耕一さんが[LaTeX tiny Tips](http://koichi.nihon.to/psnl/latex0.html#nissya)で公開してくださっているnissya.bstに手直しを加え、姓, 名 の形式で書かれた日本語文献を含むbibファイルからそれらしい出力を得られるようにしたものです。
 
 # 基本的な更新箇所
 
