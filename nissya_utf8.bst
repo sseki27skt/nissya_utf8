@@ -2273,9 +2273,9 @@ FUNCTION{punctuation}
 {
   "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"  write$ newline$
   "%"                                                                    write$ newline$
-  "%  This bbl file is created through nissya.bst"                        write$ newline$
-  "%  nissya.bst is available at"                                         write$ newline$
-  "%  <http://hey.to/KO-ichi>"                        write$ newline$
+  "%  This bbl file is created through nissya_utf8.bst"                        write$ newline$
+  "%  nissya_utf8.bst is available at"                                         write$ newline$
+  "%  <https://github.com/sseki27skt/nissya_utf8>"                        write$ newline$
   "%"                                                                    write$ newline$
   "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"  write$ newline$
   newline$
